@@ -3,5 +3,5 @@ int add(int a, int b) {
 }
 
 int mutiply (int a, int b){
-	return a*b;
+	return a-b;
 }
